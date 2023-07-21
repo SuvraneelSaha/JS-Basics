@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <h1>
+    Hello World
+  </h1>
+
+  <script>
+
+    // comments are used to explain to other fellow developers why we have written this code this way 
+    // no need to explain what this code does -- code is self explanatory 
+    
+
+    // Example - logging something in the console ---- NO 
+    console.log('Hello world Im in browser')
+  </script>
+</body>
+</html>
+<!-- we will be using the html as a host to the javascript codes  -->
+<!-- we can write the script in either the head or in the body section  -->
+<!-- According to best practices it is better to write the script section inside
+the body section after all the elements  -->
+
+<!--  the reason why we  write the script section at the end of the body section is that 
+the browser parses the file from top to bottom , so if the script section is present in the head 
+then threre would be a problem , as the browser will load up the script first not the content of the webpage 
+thus resulting in bad user experience -->
+
+<!-- there can be 3rd party js codes which is an exception and needs to be put into the head section 
+otherwise the best practice is to write it in the last of the body section  -->
