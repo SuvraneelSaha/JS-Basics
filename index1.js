@@ -105,3 +105,12 @@ let number = square(4);
 console.log(number);
 
 console.log(square(6));
+
+/*
+congratulations on your completion of learning basics of javascript 
+you learnt through struggling and your struggle helped you to develop  a growth in you 
+also in your learning and also your brain power so keep on doing it 
+You can achive so more to come , Struggle fail persevere and GROWWWWWWWWWWw. 
+
+
+*/
