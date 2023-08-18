@@ -20,8 +20,8 @@ console.log(a);
 // the default value of any undefined variable is undefined 
 // more exactyle un initialized variable's value = undefined 
 
-let name="Mosh";
-console.log(name);
+let naam="Mosh";
+console.log(naam);
 
 // VARIABLE NAMING RULES:
 // there are some rules regarding the variable naming - that is 
