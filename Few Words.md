@@ -16,7 +16,7 @@ present inside the script tag
 exceptions for 3rd party codes 
 
 html all about content 
-js - all about behaviour 
+js - all about behavior 
 
  Node is a runtime environment for executing js code outside of a browser !!!
 
